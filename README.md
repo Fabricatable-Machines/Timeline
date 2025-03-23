@@ -85,6 +85,7 @@
 **Highlights**:
 - H-Axis developed by Jens Dyvik
 - Constructio from HPL plates explored
+- The Fabaricble machines project is moved away from the origniaztion page of Felelsverkstedet and i given its own github organization *(the R&D departement at Fellesvrekstedet did not gain sufficeient momenteum and Jens Dyvik stepped out of Fellesvrekstedet to work and research independent)* 
 
 ![]()
 
@@ -170,6 +171,7 @@
 - Parametric axis generaor demoed at Fab12 Conference in Shenzen, China
 - Award plotter trophy for oslo Innovation Award delivered by Jens Dyvik, Jon Nordby and Fellesverkstedet employees
 - First version of CNC frindly rack and pinon developed by Jens Dyvik
+- The Fabriacble Machines project is moved to The Fellesverkstedet github orginaization to help build up momentum for an R&D depertment at Fab Lab Fellesverkstedet
 
 ![]()
 
