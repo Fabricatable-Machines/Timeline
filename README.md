@@ -10,7 +10,7 @@
 - Lowering the threshold for customization helps more people create new types of machines
 - Inspire people to understand more of the tools they use and rely on in their profession or hobby. Encourage hacking of existing machines.
 
-#### Motivations for making open hardware:
+### Motivations for making open hardware:
 
 - Greater good / contribute to the pool you drink from 
 - Social
