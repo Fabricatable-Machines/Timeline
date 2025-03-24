@@ -1,28 +1,28 @@
 # Fabricatable machines timeline
 *The brief history and highlights of the Fabricatable Machines project*
 
-### Index
+### Motivations for fabricatable machines:
 
- - Motivations
- - Statistics
- - 2025
- - 2024
- - 2023
- - 2022
- - 2021
- - 2020
- - 2019
- - 2018
- - 2017
- - 2016
- - 2015
+- High degree of diy in a self made machine can give a stronger sense of self reliance
+- Sport
+- Spending more hours and less money in sourcing a machine can help more businesses get started
+- Using cheap repairable machines makes for more play and different exploration/learning
+- Lowering the threshold for customization helps more people create new types of machines
+- Inspire people to understand more of the tools they use and rely on in their profession or hobby. Encourage hacking of existing machines.
 
-### Motivations
-*Coming soon*
+#### Motivations for making open hardware:
 
-### Stitsics
-*Coming soon*
+- Greater good / contribute to the pool you drink from 
+- Social
+- Marketing
 
+### Statistics
+
+- 6 contributors of machine designs and subsystems (jens, jon, torbjørn, jakob, frikk)
+- 7 contributors of documentation (jens, Torbjørn, jakob, haakon, alex, jon, frikk)
+- 20+ known users  who have reproduced fabricatable machine designs
+- 5 interntational confrences where our reserch work has been pesented *(FAB12, FAB13, FAB14, TEI2020, Software and Systems Modeling 2022)*
+- Machines are in use, or have been used, in Fab Labs, business, artists workshops, hobby workshops, schools and academic institutions
 
 # 2025
 
