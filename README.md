@@ -4,24 +4,26 @@
 ### Motivations for fabricatable machines:
 
 - High degree of diy in a self made machine can give a stronger sense of self reliance
+- Using cheap repairable machines makes for more play and different exploration/learning
 - Sport
 - Spending more hours and less money in sourcing a machine can help more businesses get started
-- Using cheap repairable machines makes for more play and different exploration/learning
 - Lowering the threshold for customization helps more people create new types of machines
 - Inspire people to understand more of the tools they use and rely on in their profession or hobby. Encourage hacking of existing machines.
 
 ### Motivations for making open hardware:
 
 - Greater good / contribute to the pool you drink from 
-- Social
-- Marketing
+- Social - better to build and share with with peers than on to work on your own
+- Marketing of your skills and work
 
 ### Statistics
 
 - 6 contributors of machine designs and subsystems
 - 7 contributors of documentation
-- 20+ known users who have reproduced fabricatable machine designs
-- 5 international confrences where our reserch work has been pesented *(FAB12, FAB13, FAB14, TEI2020, Software and Systems Modeling 2022)*
+- 23+ unique machines develobed and built at least once
+- 8+ known indivduals and 4+ groups who have reproduced fabricatable machine designs
+- 37+ machines built in total from 2015-2025
+- 5 international confrences where our reserch work has been presented *(FAB12, FAB13, FAB14, TEI2020, Software and Systems Modeling 2022)*
 - Machines are in use, or have been used, in Fab Labs, business, artists workshops, hobby workshops, schools and academic institutions
 
 # 2025
@@ -32,7 +34,7 @@
 ![]()
 
 **Lessons learned**
-- Machine conversion is almsot as much work as designing a machines from scracth
+- Machine conversion can be almost as much work as designing a machine from scracth
 
 
 # 2024
@@ -42,10 +44,12 @@
 - Jake Reads [hotplate toolchanging](https://clank.tools/tools/) design from Clank is added to Hanzo and knife [4th axis](https://github.com/Fabricatable-Machines/Hotplate-fabricatable-4th-axis) developed
 - Additive wood experiement
 
-![]()
+![](https://github.com/Fabricatable-Machines/Hotplate-fabricatable-4th-axis/blob/main/img/klaeat-toolchanger-first-tests.jpg)
+*Clank toolchange system by Jake Read added to Hanzo)*
+
 
 **Lessons learned**
-- Having large work areas in X, Y, and Z is challinging but opens lots of oppurtinties for expriemts
+- Having large work areas in X, Y, and Z is challinging but opens lots of oppurtinties for expriments
 
 
 # 2023
@@ -54,7 +58,7 @@
 - Hanzo becomse a commercial workhorse in Jens Dyviks design studio and does its job as a research platform
 - Two Huphrey 1.5s are upgraded with linear rails at Kuben vocational high school
 
-![]()
+![](https://github.com/Fabricatable-Machines/Hanzo/blob/main/img/hanzo-miiling-machine-parts-for-humphrey2.JPG)
 
 **Lessons learned**
 - Traveing tower gantry design works surisingly well
@@ -72,7 +76,12 @@
 - First succesfull self replication of a machine. One Humphrey2 makes about 80% of the parts for another Humphrey2
 - Third generation achines stills holds good performance: Hanzo made a Humphrey2, this Humphrey2 made another Humphrey2
 
-![]()
+![](https://github.com/Fabricatable-Machines/Humphrey2/blob/main/img/fabricatable-machines-second-gen-family-tree.png)
+**
+
+![](https://raw.githubusercontent.com/fellesverkstedet/fabricatable-machines/master/wiki-media/img/tei2020-paper-screenshot.PNG)
+**
+
 
 **Lessons learned**
 - Reducing level of DIY by buying linear rails and gearboxes makes performance skyrocket
@@ -87,7 +96,7 @@
 - Constructio from HPL plates explored
 - The Fabaricble machines project is moved away from the origniaztion page of Felelsverkstedet and i given its own github organization *(the R&D departement at Fellesvrekstedet did not gain sufficeient momenteum and Jens Dyvik stepped out of Fellesvrekstedet to work and research independent)* 
 
-![]()
+![](https://fab.cba.mit.edu/classes/865.21/people/jensdyvik/img/h-axes-lined-up.JPG)
 
 **Lessons learned**
 - HPL *(for instance Trespa or Formica Compact)* makes an intertsing material for smallermachines and M3 screws
@@ -99,7 +108,7 @@
 - First research paper [published](https://dl.acm.org/doi/abs/10.1145/3374920.3374929) at TEI2020
 - Frikk Fossdal develops []()
 
-![]()
+![](https://raw.githubusercontent.com/fellesverkstedet/fabricatable-machines/master/wiki-media/img/tei2020-paper-screenshot.PNG)
 
 **Lessons learned**
 - Machines designed for being CNC milled from POM makes it easy to inlcue flexures in design and has ok performance
@@ -113,7 +122,9 @@
 - First almost all wood machine with decent performance developed by Jens Dyvik, [Wood Humphrey]()
 - Nikolai Kolstad, Torbjørn Nordvik Helgesen and high schools students from Kuben makes the fourth Humphrey 1.5 
 
-![]()
+![](https://raw.githubusercontent.com/fellesverkstedet/fabricatable-machines/master/humphrey-large-format-cnc/img/humphrey5-at-kuben-cropped.jpg)
+
+![](https://raw.githubusercontent.com/fellesverkstedet/fabricatable-machines/master/humphrey-large-format-cnc/img/wood-humphrey-with-3dprinthead.JPG)
 
 **Lessons learned**
 - Polycarbonte rack works quite well
@@ -131,7 +142,13 @@
 - [Hector](https://github.com/fellesverkstedet/fabricatable-machines/tree/master/hector-medium-format-cnc) by Jakbob Nilsson is demoed at the Fab14 Conference in Toulouse, France
 - [Hedy]() is developed as a trophy for Oslo Innovation Award. Design concecpt by Jens Dyvik, design and manuafacturing by Jakbob Nilsson.
 
-![]()
+![](https://raw.githubusercontent.com/fellesverkstedet/fabricatable-machines/master/humphrey-large-format-cnc/img/installation/posing_with_assembled_machine.JPG)
+
+![](https://raw.githubusercontent.com/fellesverkstedet/fabricatable-machines/master/hattori-small-format-cnc/img/Hattori4-at-kuben-vgs.jpg)
+
+![](https://github.com/fellesverkstedet/fabricatable-machines/blob/master/hedy-pcb-cnc/img/team.jpg)
+
+![](https://raw.githubusercontent.com/fellesverkstedet/fabricatable-machines-archive/master/hobo-large-format-cnc/img/hobo-on-franciscos-gelenderwagen.jpg)
 
 **Lessons learned**
 - Patermic axes generators have a lot of potential
@@ -145,7 +162,7 @@
 - Jakob Nilsson, Torbjørn Nordvik Helgesen, and Frikk Fossdal joined the Fabricatable Machines project
 - Fab Academy student Jakbob Nilsson makes Hector, open frame CNC milling machine
 - Chamfer rail paremtric axis ued by gloabl Fab Academy students in machine design week, and How to Make Almost anything students at MIT
-- [Humphtiro - medium format CNC]() second comercial machine delivered to a customer. Design concecpt by Jens Dyvik, design and manuafacturing by Jakbob Nilsson
+- Humphtiro - medium format CNC second comercial machine delivered to a customer. Design concecpt by Jens Dyvik, design and manuafacturing by Jakbob Nilsson
 - Hattori small format CNC demoed at Fab13 in Santiago, Chile
 - First Humphrey Machine large fromat CNC milling machie desgined by Jens Dyvik and Aleax Schaub for Contact Makerspace Amsterdam
 - Humphrey redsigned by Jakob Nilsson from the bottom up and delivered to third commercial customer.
@@ -153,7 +170,17 @@
 - Namig convention started, all Fabricatable Machine names start with the letter "H"
 
 
-![]()
+![](https://github.com/fellesverkstedet/fabricatable-machines/raw/master/hattori-small-format-cnc/img/Hattori_CNCmill_version_at_FAB13_Jens_Dyvik_and_Neil_Gershenfeld.jpg)
+
+![](https://raw.githubusercontent.com/fellesverkstedet/fabricatable-machines/master/hector-medium-format-cnc/img/hector_upgraded_photo.jpg)
+
+![](https://camo.githubusercontent.com/72c8ed67c8c52669aed62ec7e2a94e578c8b74d17d7c5b9d73845ff3dd726ae8/68747470733a2f2f6661622e6362612e6d69742e6564752f636c61737365732f3836332e31372f454543532f6d616368696e65732f696d672f696d675f333531372e6a7067)
+
+![](https://raw.githubusercontent.com/fellesverkstedet/fabricatable-machines/master/hattori-small-format-cnc/img/Hattori_AwardPrinterEdition_price_winners.jpg)
+
+![](https://github.com/fellesverkstedet/fabricatable-machines/blob/master/humphrey-large-format-cnc/img/08b-humphrey-alex-schaub-and-jens-dyvik-pose-with-gantry-in-front-of-mother-gantry.jpg)
+
+![](https://raw.githubusercontent.com/fellesverkstedet/fabricatable-machines/master/humphrey-large-format-cnc/img/01humphrey-first-cuts.jpg)
 
 **Lessons learned**
 - Making machines from aluminum increases performance, but most potential machine fabbers find milling aluminum scary *(lowering the chance of repsroduction of a design)*
@@ -173,7 +200,16 @@
 - First version of CNC frindly rack and pinon developed by Jens Dyvik
 - The Fabriacble Machines project is moved to The Fellesverkstedet github orginaization to help build up momentum for an R&D depertment at Fab Lab Fellesverkstedet
 
-![]()
+
+![](https://github.com/fellesverkstedet/fabricatable-machines-archive/blob/master/simple-gantry/img/Vbird-in-the-making-at-fab12-china01.JPG)
+
+![](https://raw.githubusercontent.com/fellesverkstedet/fabricatable-machines-archive/master/simple-gantry/img/Vbird-at-fab12-china.JPG)
+
+![](https://github.com/fellesverkstedet/fabricatable-machines-archive/blob/master/simple-gantry/img/machine%20builder%20interface%20-%20simple%20gantry%20640%20x%20320.png)
+
+![](https://github.com/fellesverkstedet/fabricatable-machines-archive/blob/master/simple-gantry/img/simple%20gantry%20640%20x%20320%20test.JPG)
+
+![](https://raw.githubusercontent.com/fellesverkstedet/fabricatable-machines-archive/master/award-plotter/img/00Award-winners-with-the-crown-prince-and-princess.JPG)
 
 **Lessons learned**
 - Fuly paremetric machine models is a lot of work and cumberome to edit
@@ -199,8 +235,6 @@
 **Lessons learned**
 - Keep part the count low. *(Better to put complexity in shapes. Let the machines make complex machines parts, and the humens do less assembling)*
 
-**Fun facts:**
+**Fun fact:**
 - Jens originaly named the project "Tractor systems", because his goal was to make DIY robust enough that would not break down when used by amateurs in shared workshops. Jon and Jens came up with Fabricatble Machines and renamed the project and repository.
-
-![]()
 
