@@ -18,10 +18,10 @@
 
 ### Statistics
 
-- 6 contributors of machine designs and subsystems (jens, jon, torbjørn, jakob, frikk)
-- 7 contributors of documentation (jens, Torbjørn, jakob, haakon, alex, jon, frikk)
-- 20+ known users  who have reproduced fabricatable machine designs
-- 5 interntational confrences where our reserch work has been pesented *(FAB12, FAB13, FAB14, TEI2020, Software and Systems Modeling 2022)*
+- 6 contributors of machine designs and subsystems
+- 7 contributors of documentation
+- 20+ known users who have reproduced fabricatable machine designs
+- 5 international confrences where our reserch work has been pesented *(FAB12, FAB13, FAB14, TEI2020, Software and Systems Modeling 2022)*
 - Machines are in use, or have been used, in Fab Labs, business, artists workshops, hobby workshops, schools and academic institutions
 
 # 2025
